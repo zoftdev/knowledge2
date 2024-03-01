@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'th-TH'
+title = 'Hlex Site'
+theme = 'ananke'
